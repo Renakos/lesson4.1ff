@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.lesson41ff.Adaptern2d
-import com.example.lesson41ff.Count
 import com.example.lesson41ff.ItemModel
 import com.example.lesson41ff.databinding.FragmentFirstBinding
 
@@ -33,7 +32,7 @@ class FirstFragment : Fragment() {
     }
 
     private fun addDataIfNeeded() {
-        // Добавьте данные только если список пустой
+
         if (work.isEmpty()) {
             work.add(ItemModel("FirstDataOfSecondFragment", "SecondDataOfSecondFragment"))
             adapter.notifyDataSetChanged()

@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.lesson41ff.Adaptern3d
-import com.example.lesson41ff.Count2
 import com.example.lesson41ff.ItemModel2
 import com.example.lesson41ff.databinding.FragmentSecondBinding
 
