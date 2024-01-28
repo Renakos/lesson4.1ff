@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">lesson4.1ff</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_item">First</string>
+    <string name="second_item">Second</string>
+    <string name="third_item">Third</string>
+
+    <string name="name">Заметки</string>
+    <string name="search">Поиск заметок</string>
+    <string name="n2d">Нужно сделать:</string>
+    <string name="work">Работы с проектом, сделать домашку, убираться и…</string>
+    <string name="datetime">6 июня  \n 12:45</string>
+    <string name="datetime2">05.05.21 \n 12:45</string>
+    <string name="datetimef">6 июня \n 12:45</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="input_title">Введите оглавление</string>
+    <string name="input_description">Введите описание</string>
+    <string name="done">Готово</string>
+
+</resources>
